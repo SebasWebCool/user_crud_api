@@ -1,4 +1,4 @@
-const userControllers = require('./users.controllers');
+const userControllers = require('./users.controller');
 
 const getAll = (req, res) => {
     userControllers
